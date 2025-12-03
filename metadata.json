@@ -1,0 +1,7 @@
+{
+  "name": "Aarika - Virtual Work Assistant",
+  "description": "A professional, friendly virtual assistant named Aarika who helps manage work tasks, offers suggestions, and communicates in English and Hinglish.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
